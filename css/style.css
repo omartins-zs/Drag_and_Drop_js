@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-family: "poppins";
     font-size: 30px;
+    background-color: #e2e2e2;
 }
 
 .kanban {
@@ -19,7 +20,7 @@
     flex-direction: column;
     gap: 10px;
     padding: 10px;
-    background-color: cadetblue;
+    background-color: #0a2463;
     min-width: 200px;
     border-radius: 5px;
 }
